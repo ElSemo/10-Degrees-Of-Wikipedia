@@ -9,4 +9,4 @@ Given a source and target webpage on wikipedia, does there exist a 6-edge graph 
 # Visualization
 ![Example](src/DegreesOfWiki_graphGit.png)
 
-
+Here is a visual example of a 5-link from *Computer Science* to *Canadian Cycling Association*
