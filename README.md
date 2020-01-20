@@ -7,3 +7,4 @@ Given a source and target webpage on wikipedia, does there exist a 6-edge graph 
 Example: 6 degrees of wikipedia -> Jesus -> Christianity is a 3-link with inputs(Source = 6 degrees of wikipedia, target = christianity)
 
 # Visualization
+![Example](src/DegreesOfWiki_graphGit.png)
